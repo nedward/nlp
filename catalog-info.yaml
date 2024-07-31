@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: nlp
+  annotations:
+    github.com/project-slug: nedward/nlp
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
